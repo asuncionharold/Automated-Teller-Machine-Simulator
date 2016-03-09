@@ -1,0 +1,5 @@
+c:\users\harold\documents\visual studio 2010\Projects\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.exe
+c:\users\harold\documents\visual studio 2010\Projects\ATM Simulator\ATM Simulator\bin\Debug\ATM Simulator.pdb
+c:\users\harold\documents\visual studio 2010\Projects\ATM Simulator\ATM Simulator\obj\x86\Debug\ATM Simulator.exe
+c:\users\harold\documents\visual studio 2010\Projects\ATM Simulator\ATM Simulator\obj\x86\Debug\ATM Simulator.pdb
+C:\Users\Harold\Documents\Visual Studio 2010\Projects\ATM Simulator\ATM Simulator\obj\x86\Debug\ATM Simulator.csprojResolveAssemblyReference.cache
